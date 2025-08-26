@@ -1,0 +1,1 @@
+Flag indicating whether the event sender should provide a **doneHandler** for the event. EventBus displays a warning message in active **DEBUG_MODE** if this value is **true** and the **doneHandler** value is not filled in the incoming event.
