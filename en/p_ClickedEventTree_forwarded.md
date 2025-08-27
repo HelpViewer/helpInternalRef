@@ -1,0 +1,1 @@
+**false** or the name of the handler to which this event was passed.

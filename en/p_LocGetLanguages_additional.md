@@ -1,0 +1,1 @@
+**Optional**. List of additional languages which should be added to UI supported (usually help file specific languages version). External call should be **undefined** here. Underlaying component scans also the help file languages list and append this list to this parameter and afterwards to list of languages.

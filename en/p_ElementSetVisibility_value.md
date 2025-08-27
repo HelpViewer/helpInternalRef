@@ -1,0 +1,3 @@
+**(boolean)**
+
+New visibility value.
