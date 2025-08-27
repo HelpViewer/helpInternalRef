@@ -1,0 +1,1 @@
+Function (token, handler) which runs handler if given token is present in **tokens**. When a token is found, the handler is triggered. All occurrences of the token that are found are removed from the **tokens** list.
