@@ -1,0 +1,1 @@
+pTopicRenderer token. Message **MSG_PATH_NOT_FOUND_IN_ARCH** in chapter output is not applied with this token when storage chapter data are not found. Used for technical/internal dynamic pages (e.g. this **ObjectExplorer**).
