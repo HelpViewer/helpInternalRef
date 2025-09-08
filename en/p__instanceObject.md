@@ -1,0 +1,1 @@
+Plugin object instance.
