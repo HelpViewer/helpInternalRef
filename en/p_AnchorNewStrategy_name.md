@@ -1,0 +1,1 @@
+New strategy name.
