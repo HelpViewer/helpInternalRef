@@ -1,0 +1,1 @@
+Offset fields [left, top] for content relative to the cursor position. Positive values mean down or right, negative values mean up or left relative to the cursor. Alternatively, you can send the string "left;top".

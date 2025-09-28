@@ -1,0 +1,1 @@
+When not provided, then communication is done by (standard way of) event sending. If you will provide handler, then no message will be sent to event bus, but you can process this message (type defined in configurtaion option ⚙️ EVENTBUSEVENT) in your handler.
