@@ -2,7 +2,7 @@
 
 V tomto **ObjectExplorer** zásuvném modulu můžete procházet data modulů, které jsou v této relaci aktivní. Modul využívá shod struktury modulů s doporučovanou notací pro moduly. Pokud v rámci vývoje svého modulu nedodržíte notaci, je možné, že se zde některé položky nenačtou a nebo se zařadí do jiné typové skupiny než podle Vaší potřeby patří. Postup vývoje modulu je popsán v [dokumentaci pro vývojáře][authDoc].
 
-⚠️ **ObjectExplorer** zásuvný modul je načten pouze pokud aplikace **běží s DEBUG_MODE = true v hvdata/appmain.js**. V opačném případě není k dispozici žádná funkcionalita ani výstup a aplikace vrací odpověď nenalezeno pro kapitoly, které modul obsluhuje.
+⚠️ **ObjectExplorer** zásuvný modul je načten pouze pokud aplikace **běží s DEBUG_MODE = true v index.html**. V opačném případě není k dispozici žádná funkcionalita ani výstup a aplikace vrací odpověď nenalezeno pro kapitoly, které modul obsluhuje.
 
 ## Skupiny
 
